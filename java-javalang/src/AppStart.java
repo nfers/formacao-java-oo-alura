@@ -1,5 +1,11 @@
 import model.Conta;
 
+
+/**
+ * Classe de inicio onde possui método que permite realizar saques
+ *
+ * @author Nayara Ferreira
+ */
 public class AppStart {
 
     public static void main(String[] args) throws Exception{
